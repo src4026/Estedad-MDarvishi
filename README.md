@@ -1,4 +1,4 @@
-# Estedad-MDarvishi
+# Estedad-Urdu
 
 This fork is an Urdu-compatible modification of [Estedad-MDarvishi](https://github.com/MohamadDarvishi/Estedad-MDarvishi) by [MohammadDarvishi](https://github.com/MohamadDarvishi).
 
