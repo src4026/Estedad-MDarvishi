@@ -19,32 +19,32 @@ I will admit that I have not etched a single stroke, all the basic characters of
 ### Urdu Retroflex Characters
 
 <p align="center">
-  <img src="./assets/tte.png" alt="Tte" height="100" />
-  <img src="./assets/ddal.png" alt="Ddal" height="100" />
-  <img src="./assets/rrhe.png" alt="Rrhe" height="100" />
+  <img src="./assets/tte.png" alt="Tte" height="200" />
+  <img src="./assets/ddal.png" alt="Ddal" height="200" />
+  <img src="./assets/rrhe.png" alt="Rrhe" height="200" />
 </p>
 
 ### Gol He
 
 <p align="center">
-  <img src="./assets/golhe.png" alt="Gol He" height="100" />
+  <img src="./assets/golhe.png" alt="Gol He" height="200" />
 </p>
 
 ### Do Chasmi He
 
 <p align="center">
-  <img src="./assets/dochasmihe.png" alt="Do Chasmi He" height="100" />
+  <img src="./assets/dochasmihe.png" alt="Do Chasmi He" height="200" />
 </p>
 
 ### Barri Yeh
 <p align="center">
-  <img src="./assets/barriyeh.png" alt="Barri Yeh" height="100" />
+  <img src="./assets/barriyeh.png" alt="Barri Yeh" height="200" />
 </p>
 
 ### Noon Ghunna
 
 <p align="center">
-  <img src="./assets/noonghunna.png" alt="Noon Ghunna" height="100" />
+  <img src="./assets/noonghunna.png" alt="Noon Ghunna" height="200" />
 </p>
 
 ## Weights
