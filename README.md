@@ -16,7 +16,7 @@ I will admit that I have not etched a single stroke, all the basic characters of
 
 ## Urdu Retroflex Characters
 
-<div style="text-align: center;">
+<div align="center">
     <img src="./assets/tte.png" alt="Tte" />
     <img src="./assets/ddal.png" alt="Ddal" />
     <img src="./assets/rrhe.png" alt="Rrhe" />
