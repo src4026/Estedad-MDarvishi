@@ -13,19 +13,17 @@ I will admit that I have not etched a single stroke, all the basic characters of
 ### Urdu/Persian Numbers
 
 <p align="center">
-  <img src="./assets/numbers.png" alt="Urdu numbers" width="700" />
+  <img src="./assets/numbers.png" alt="Urdu numbers" height="700" />
 </p>
-
-![Urdu numbers](./assets/numbers.png)
 
 ## Urdu Retroflex Characters
 
 <p align="center">
-  <img src="./assets/tte.png" alt="Tte" width="700" />
+  <img src="./assets/tte.png" alt="Tte" height="700" />
 </p
 <p align="center">
-  <img src="./assets/ddal.png" alt="Ddal" width="700" />
+  <img src="./assets/ddal.png" alt="Ddal" height="700" />
 </p>
 <p align="center">
-  <img src="./assets/rrhe.png" alt="Rrhe" width="700" />
+  <img src="./assets/rrhe.png" alt="Rrhe" height="700" />
 </p>
