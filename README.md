@@ -10,16 +10,45 @@ Due to personal stylistic and convenience as well as my lack of experience, know
 
 I will admit that I have not etched a single stroke, all the basic characters of the modifications were already there, I simply mix and matched them for some characters and mapped others.
 
-### Urdu/Persian Numbers
+### Urdu/Persian Numerals
 
 <p align="center">
   <img src="./assets/numbers.png" alt="Urdu numbers" height="100" />
 </p>
 
-## Urdu Retroflex Characters
+### Urdu Retroflex Characters
 
 <p align="center">
   <img src="./assets/tte.png" alt="Tte" height="100" />
   <img src="./assets/ddal.png" alt="Ddal" height="100" />
   <img src="./assets/rrhe.png" alt="Rrhe" height="100" />
+</p>
+
+### Gol He
+
+<p align="center">
+  <img src="./assets/golhe.png" alt="Gol He" height="100" />
+</p>
+
+### Do Chasmi He
+
+<p align="center">
+  <img src="./assets/dochasmihe.png" alt="Do Chasmi He" height="100" />
+</p>
+
+### Barri Yeh
+<p align="center">
+  <img src="./assets/barriyeh.png" alt="Barri Yeh" height="100" />
+</p>
+
+### Noon Ghunna
+
+<p align="center">
+  <img src="./assets/noonghunna.png" alt="Noon Ghunna" height="100" />
+</p>
+
+## Weights
+
+<p align="center">
+  <img src="./assets/weights.png" alt="Weights"/>
 </p>
