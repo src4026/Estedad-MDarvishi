@@ -13,7 +13,7 @@ I will admit that I have not etched a single stroke, all the basic characters of
 ### Urdu/Persian Numerals
 
 <p align="center">
-  <img src="./assets/numbers.png" alt="Urdu numbers" height="100" />
+  <img src="./assets/numbers.png" alt="Urdu numbers" height="200" />
 </p>
 
 ### Urdu Retroflex Characters
