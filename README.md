@@ -19,11 +19,11 @@ I will admit that I have not etched a single stroke, all the basic characters of
 ## Urdu Retroflex Characters
 
 <p align="center">
-  <img src="./assets/tte.png" alt="Tte" height="400" />
+  <img src="./assets/tte.png" alt="Tte" height="100" />
 </p>
 <p align="center">
-  <img src="./assets/ddal.png" alt="Ddal" height="400" />
+  <img src="./assets/ddal.png" alt="Ddal" height="100" />
 </p>
 <p align="center">
-  <img src="./assets/rrhe.png" alt="Rrhe" height="400" />
+  <img src="./assets/rrhe.png" alt="Rrhe" height="100" />
 </p>
