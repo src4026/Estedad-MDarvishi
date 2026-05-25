@@ -20,7 +20,7 @@ I will admit that I have not etched a single stroke, all the basic characters of
 
 <p align="center">
   <img src="./assets/tte.png" alt="Tte" height="700" />
-</p
+</p>
 <p align="center">
   <img src="./assets/ddal.png" alt="Ddal" height="700" />
 </p>
