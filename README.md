@@ -8,7 +8,7 @@ Due to personal stylistic and convenience as well as my lack of experience, know
 
 ## Modifications
 
-I will admit that I have not etched a single stroke, all the basic characters of the modifications were already there, I simply mix and matched them for some characters and mapped others.
+I will admit that I have not etched a single stroke, all the basic characters of the modifications were already there; I simply mixed and matched them for some characters and mapped others.
 
 ### Urdu/Persian Numerals
 
