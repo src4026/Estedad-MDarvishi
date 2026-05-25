@@ -50,5 +50,5 @@ I will admit that I have not etched a single stroke, all the basic characters of
 ## Weights
 
 <p align="center">
-  <img src="./assets/weights.png" alt="Weights"/>
+  <img src="./assets/weights.png" alt="Weights" height="400" />
 </p>
