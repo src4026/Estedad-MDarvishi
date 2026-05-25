@@ -8,9 +8,16 @@ Due to personal stylistic and convenience as well as my lack of experience, know
 
 ## Modifications
 
-To write (also add suitable pictures because why not)
+I will admit that I have not etched a single stroke, all the basic characters of the modifications were already there, I simply mix and matched them for some characters and mapped others.
 
+### Urdu/Persian Numbers
 
+![Urdu numbers](./assets/numbers.png)
 
+## Urdu Retroflex Characters
 
-
+<div style="text-align: center;">
+    <img src="./assets/tte.png" alt="Tte" />
+    <img src="./assets/ddal.png" alt="Ddal" />
+    <img src="./assets/rrhe.png" alt="Rrhe" />
+</div>
